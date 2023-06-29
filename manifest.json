@@ -1,5 +1,5 @@
 {
-  "vendor": "vtex",
+  "vendor": "digitalriverpartnerus",
   "name": "minicart",
   "title": "Mini Cart",
   "version": "2.67.1",
@@ -29,7 +29,7 @@
     "vtex.product-list": "0.x",
     "vtex.device-detector": "0.x",
     "vtex.store-drawer": "0.x",
-    "vtex.checkout-summary": "0.x",
+    "digitalriverpartnerus.checkout-summary": "0.x",
     "vtex.checkout-resources": "0.x",
     "vtex.flex-layout": "0.x",
     "vtex.rich-text": "0.x",
